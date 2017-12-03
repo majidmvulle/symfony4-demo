@@ -1,4 +1,7 @@
 # Fun Symfony 4.0 demo thingy
+
+Run `bin/console server:start` to start the server.
+
 Has a working API:
 
 ```
